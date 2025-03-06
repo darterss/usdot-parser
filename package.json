@@ -1,0 +1,21 @@
+{
+  "name": "usdot-parser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "dependencies": {
+    "ini": "^5.0.0",
+    "puppeteer": "^24.3.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-proxy": "^1.0.2",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "winston": "^3.17.0"
+  }
+}
